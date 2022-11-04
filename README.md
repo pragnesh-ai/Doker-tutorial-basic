@@ -23,4 +23,4 @@ $ docker run [image_name]
 
 ## Author
 
-- **Gaël THOMAS** - [gaelgthomas](https://github.com/gaelgthomas)
+- **Pragnesh Prajapati** 
